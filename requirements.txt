@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+scikit-learn
+numpy
+pypdf
+streamlit
+requests
+# optional, for the OpenAI + FAISS backend:
+# openai
+# faiss-cpu
